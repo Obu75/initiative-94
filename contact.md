@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 3
 in_menu: true
 ---
 La marche 94 pour Gaza du 7 septembre est une initiative ouverte et unitaire, à l'appel d'un collectif d'organisations politiques, syndicales et associatives locales et départementales.
