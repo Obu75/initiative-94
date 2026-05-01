@@ -1,6 +1,6 @@
 ---
-title: "Accueil"
-order: 0
+title: "Initiative 2025 : marche pour Gaza"
+order: 2
 in_menu: true
 ---
 ![Le tract pour la manifestation du 7 septembre 2025.]({% link images/tract.jpg %})
