@@ -6,4 +6,4 @@ plugins:
   - jekyll-git-hash
 theme: mimoza
 scribouilli: true
-baseurl: /marche-unitaire-94-pour-gaza
+baseurl: /initiative-94
